@@ -43,8 +43,10 @@ data processing, using open datasets relevant to the attendees and ams2025.
 - Daniel Michelson, Environment and Climate Change Canada (ECCC)
 - Jen DeHart, Colorado State University (CSU)
 - Maxwell Grover, Argonne National Laboratory
+- Zachary Sherman, Argonne National Laboratory
 - Mike Dixon, National Center for Atmospheric Research (NCAR)
 - Robert Jackson, Argonne National Laboratory
+- Joseph O'Brien, Argonne National Laboratory 
 - Scott Collis, Argonne National Laboratory
 - Ting-Yu Cha, National Center for Atmospheric Research (NCAR)
 
