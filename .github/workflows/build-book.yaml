@@ -97,6 +97,8 @@ jobs:
           # Make sure to grab the latest version of myst
           pip install -U mystmd
           pytest -n auto --verbose --durations=15 --pyargs notebooks
+          # Prevent conflicts with conda env
+          unset HOST
           # build the book
           myst build --html
       - name: Zip the book
