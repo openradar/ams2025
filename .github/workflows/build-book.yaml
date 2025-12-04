@@ -94,6 +94,8 @@ jobs:
           # run notebooks
           ls -lart notebooks
           ls -lart /work/notebooks
+          # Make sure to grab the latest version of myst
+          pip install -U mystmd
           pytest -n auto --verbose --durations=15 --pyargs notebooks
           # build the book
           myst build --ci --html
