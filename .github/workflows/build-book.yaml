@@ -99,6 +99,7 @@ jobs:
           pytest -n auto --verbose --durations=15 --pyargs notebooks
           # Prevent conflicts with conda env
           unset HOST
+          export NODE_OPTIONS="--dns-result-order=ipv4first"
           # build the book
           myst build --html
       - name: Zip the book
