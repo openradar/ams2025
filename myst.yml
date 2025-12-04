@@ -80,8 +80,8 @@ project:
     output_matplotlib_strings: remove
 site:
   options:
-    logo: https://openradarscience.org/build/openradar_logo-c671700b2b58384bf0c93ce160434b58.svg
-    logo_dark: https://openradarscience.org/build/openradar_logo-c671700b2b58384bf0c93ce160434b58.svg
+    logo: https://global.discourse-cdn.com/free1/uploads/openradar/original/1X/0a5d975b2411419713dc68b3d2f3800f73b669c6.svg
+    logo_dark: https://global.discourse-cdn.com/free1/uploads/openradar/original/1X/0a5d975b2411419713dc68b3d2f3800f73b669c6.svg
   nav:
     - title: Conference Home
       url: https://www.ametsoc.org/ams/meetings-events/ams-meetings/41st-international-conference-on-radar-meteorology/
