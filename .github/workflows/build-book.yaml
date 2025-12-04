@@ -98,7 +98,7 @@ jobs:
           pip install -U mystmd
           pytest -n auto --verbose --durations=15 --pyargs notebooks
           # build the book
-          myst build --ci --html
+          myst build --html
       - name: Zip the book
         run: |
           set -x
